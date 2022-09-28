@@ -1,0 +1,3132 @@
+{
+  "global": {
+    "Flag": {
+      "stroke": {
+        "value": "#0000001a",
+        "type": "color"
+      },
+      "overlay": {
+        "linear gradient": {
+          "value": "linear-gradient(180deg, #ffffffb3 0%, #0000004d 100%)",
+          "type": "color"
+        },
+        "diagonal ripple": {
+          "value": "linear-gradient(225deg, #ffffff4d 0%, #00000045 26.27%, #ffffff42 37%, #0000008c 48.7%, #0000003d 59.44%, #ffffff4d 73.64%, #27272738 90.15%, #00000033 100%)",
+          "type": "color",
+          "description": "diagonal ripple"
+        }
+      },
+      "dropshadow L": {
+        "value": {
+          "color": "#0000001a",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 2,
+          "blur": 3,
+          "spread": 0
+        },
+        "type": "boxShadow"
+      }
+    },
+    "Countries": {
+      "Africa": {
+        "AE - United Arab Emirates": {
+          "1": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5daa22",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#262626",
+            "type": "color"
+          }
+        },
+        "KW - Kuwait": {
+          "1": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "2": {
+            "value": "#009933",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#e31c1c",
+            "type": "color"
+          }
+        },
+        "LS - Lesotho": {
+          "1": {
+            "value": "#3d57db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#55bb07",
+            "type": "color"
+          },
+          "4": {
+            "value": "#1c1c1c",
+            "type": "color"
+          }
+        },
+        "GN - Guinea": {
+          "1": {
+            "value": "#e01a1a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbce18",
+            "type": "color"
+          },
+          "3": {
+            "value": "#0b9d79",
+            "type": "color"
+          }
+        },
+        "SY - Syria": {
+          "1": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#3e8f00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f5fbff",
+            "type": "color"
+          }
+        },
+        "SA - Saudi Arabia": {
+          "1": {
+            "value": "#66be23",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "RW - Rwanda": {
+          "1": {
+            "value": "#3aa4d9",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5a972b",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffdd1a",
+            "type": "color"
+          }
+        },
+        "KE - Kenya": {
+          "1": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#4d8b1d",
+            "type": "color"
+          },
+          "6": {
+            "value": "#0067c2",
+            "type": "color"
+          }
+        },
+        "LR - Liberia": {
+          "1": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#3d57db",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f5fbff",
+            "type": "color"
+          }
+        },
+        "SL - Sierra Leone": {
+          "1": {
+            "value": "#79d945",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#3d57db",
+            "type": "color"
+          }
+        },
+        "SN - Senegal": {
+          "1": {
+            "value": "#006622",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbce18",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e01a1a",
+            "type": "color"
+          }
+        },
+        "SC - Seychelles": {
+          "1": {
+            "value": "#2e42a3",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffd11a",
+            "type": "color"
+          }
+        },
+        "LY - Libya": {
+          "1": {
+            "value": "#e01a1a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#1c1c1c",
+            "type": "color"
+          },
+          "3": {
+            "value": "#55bb07",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "TD - Chad": {
+          "1": {
+            "value": "#2e42a3",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbce18",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e01a1a",
+            "type": "color"
+          }
+        },
+        "TG - Togo": {
+          "1": {
+            "value": "#f40101",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#fafdff",
+            "type": "color"
+          }
+        },
+        "Sao Tome and Principe": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#73be4a",
+            "type": "color"
+          },
+          "3": {
+            "value": "#fbcd17",
+            "type": "color"
+          },
+          "4": {
+            "value": "#272727",
+            "type": "color"
+          }
+        },
+        "RE - Reunion": {
+          "1": {
+            "value": "#2e42a3",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f50000",
+            "type": "color"
+          }
+        },
+        "NG - Nigeria": {
+          "1": {
+            "value": "#009933",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          }
+        },
+        "ZA - South Africa": {
+          "1": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "4": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "5": {
+            "value": "#3d57db",
+            "type": "color"
+          },
+          "6": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "7": {
+            "value": "#fafdff",
+            "type": "color"
+          }
+        },
+        "ZM - Zambia": {
+          "1": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ff7f24",
+            "type": "color"
+          },
+          "3": {
+            "value": "#c31818",
+            "type": "color"
+          },
+          "4": {
+            "value": "#262626",
+            "type": "color"
+          }
+        },
+        "ZW - Zimbabwe": {
+          "1": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "4": {
+            "value": "#0a0a0a",
+            "type": "color"
+          },
+          "6": {
+            "value": "#fafdff",
+            "type": "color"
+          }
+        },
+        "NA - Namibia": {
+          "1": {
+            "value": "#2f94f9",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "5": {
+            "value": "#009933",
+            "type": "color"
+          }
+        },
+        "SO - Somalia": {
+          "1": {
+            "value": "#57c5f4",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f5fbff",
+            "type": "color"
+          }
+        },
+        "QA - Qatar": {
+          "1": {
+            "value": "#b61b4a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          }
+        },
+        "YE - Yemen": {
+          "1": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#262626",
+            "type": "color"
+          }
+        },
+        "SD - Sudan": {
+          "1": {
+            "value": "#5daa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#262626",
+            "type": "color"
+          }
+        },
+        "MZ - Mozambique": {
+          "1": {
+            "value": "#f50000",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#009933",
+            "type": "color"
+          },
+          "5": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "6": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "7": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "NE - Niger": {
+          "1": {
+            "value": "#ff6600",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "3": {
+            "value": "#fafdff",
+            "type": "color"
+          }
+        },
+        "ML - Mali": {
+          "1": {
+            "value": "#0b9d79",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbce18",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e01a1a",
+            "type": "color"
+          }
+        },
+        "GW - Guinea-Bissau": {
+          "1": {
+            "value": "#e01a1a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbce18",
+            "type": "color"
+          },
+          "3": {
+            "value": "#0b9d79",
+            "type": "color"
+          },
+          "4": {
+            "value": "#1c1c1c",
+            "type": "color"
+          }
+        },
+        "CI - Côte d'Ivoire (Ivory Coast)": {
+          "1": {
+            "value": "#e47e00",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#67bd38",
+            "type": "color"
+          }
+        },
+        "CM - Cameroon": {
+          "1": {
+            "value": "#0b9d79",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e01a1a",
+            "type": "color"
+          },
+          "3": {
+            "value": "#fbce18",
+            "type": "color"
+          }
+        },
+        "BJ - Benin": {
+          "1": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#dd2c2c",
+            "type": "color"
+          }
+        },
+        "BI - Burundi": {
+          "1": {
+            "value": "#dd2c2c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5daa22",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "GA - Gabon": {
+          "1": {
+            "value": "#73be4b",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#42aaff",
+            "type": "color"
+          }
+        },
+        "ET - Ethiopia": {
+          "1": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffcc00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "4": {
+            "value": "#2b77b6",
+            "type": "color"
+          }
+        },
+        "CV - Cabo Verde": {
+          "1": {
+            "value": "#4343db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#fa0000",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffdd00",
+            "type": "color"
+          }
+        },
+        "BW - Botswana": {
+          "1": {
+            "value": "#43aedf",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fafdff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#262626",
+            "type": "color"
+          },
+          "4": {
+            "value": "#57a5ff",
+            "type": "color"
+          }
+        },
+        "GM - Gambia": {
+          "1": {
+            "value": "#e31c1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#3d57db",
+            "type": "color"
+          },
+          "3": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "ER - Eritrea": {
+          "1": {
+            "value": "#bd0026",
+            "type": "color"
+          },
+          "2": {
+            "value": "#42b864",
+            "type": "color"
+          },
+          "3": {
+            "value": "#b4d7f4",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f3e295",
+            "type": "color"
+          }
+        },
+        "DJ - Djibouti": {
+          "1": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#6699ff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#73be4b",
+            "type": "color"
+          },
+          "4": {
+            "value": "#e31c1c",
+            "type": "color"
+          }
+        },
+        "BF - Burkina Faso": {
+          "1": {
+            "value": "#c31818",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5da923",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffcc00",
+            "type": "color"
+          }
+        },
+        "CG - Republic of the Congo": {
+          "1": {
+            "value": "#07ab07",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbce18",
+            "type": "color"
+          },
+          "3": {
+            "value": "#fa0f0f",
+            "type": "color"
+          }
+        },
+        "CF - Central African Republic": {
+          "1": {
+            "value": "#3d57db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f5fbff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#73be4b",
+            "type": "color"
+          },
+          "4": {
+            "value": "#e01a1a",
+            "type": "color"
+          }
+        },
+        "CD - Democratic Republic of the Congo": {
+          "1": {
+            "value": "#3195f9",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "JO - Jordan": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#009933",
+            "type": "color"
+          }
+        },
+        "EH - Western Sahara": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#5eaa22",
+            "type": "color"
+          }
+        },
+        "EG - Egypt": {
+          "1": {
+            "value": "#bf2714",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "4": {
+            "value": "#c09302",
+            "type": "color"
+          }
+        },
+        "MG - Madagascar": {
+          "1": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ea1a1a",
+            "type": "color"
+          },
+          "3": {
+            "value": "#78d843",
+            "type": "color"
+          }
+        },
+        "MR - Mauritania": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#1c7b4d",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "KM - Comoros": {
+          "1": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbcd17",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#af0100",
+            "type": "color"
+          },
+          "5": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "6": {
+            "value": "#5196ed",
+            "type": "color"
+          }
+        },
+        "GH - Ghana": {
+          "1": {
+            "value": "#e11c1b",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#5eaa22",
+            "type": "color"
+          }
+        },
+        "DZ - Algeria": {
+          "1": {
+            "value": "#36a400",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ff0000",
+            "type": "color"
+          }
+        },
+        "GQ - Equatorial Guinea": {
+          "1": {
+            "value": "#0075d5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#009d00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#009d29",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "6": {
+            "value": "#ffd500",
+            "type": "color"
+          },
+          "7": {
+            "value": "#373737",
+            "type": "color"
+          },
+          "8": {
+            "value": "#6f3e1d",
+            "type": "color"
+          },
+          "9": {
+            "value": "#f80000",
+            "type": "color"
+          },
+          "10": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "TZ - Tanzania": {
+          "1": {
+            "value": "#73be4a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "3": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "4": {
+            "value": "#3195f9",
+            "type": "color"
+          }
+        },
+        "TN - Tunisia": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "MW - Malawi": {
+          "1": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e11c1b",
+            "type": "color"
+          },
+          "3": {
+            "value": "#5eaa22",
+            "type": "color"
+          }
+        },
+        "MU - Mauritius": {
+          "1": {
+            "value": "#e11c1b",
+            "type": "color"
+          },
+          "2": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#579d20",
+            "type": "color"
+          }
+        },
+        "AO - Angola": {
+          "1": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "2": {
+            "value": "#1d1d1d",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffea42",
+            "type": "color"
+          }
+        },
+        "MA - Morocco": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "3": {
+            "value": "#579d20",
+            "type": "color"
+          }
+        }
+      },
+      "Asia": {
+        "TW - Taiwan": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ef0000",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feffff",
+            "type": "color"
+          }
+        },
+        "MV - Maldives": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#579d20",
+            "type": "color"
+          },
+          "3": {
+            "value": "#b6eb9a3d",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f9fafa",
+            "type": "color"
+          }
+        },
+        "TR - Turkey": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "UZ - Uzbekistan": {
+          "1": {
+            "value": "#0099b5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#14dc5a",
+            "type": "color"
+          },
+          "4": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "5": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "TL - Timor-Leste": {
+          "1": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "KP - Korea (North)": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "KR - Korea (South)": {
+          "1": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "3": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "5": {
+            "value": "#e31d1c",
+            "type": "color"
+          }
+        },
+        "TJ - Tajikistan": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#409100",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffbb00",
+            "type": "color"
+          }
+        },
+        "PK - Pakistan": {
+          "1": {
+            "value": "#2f8d00",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f1f9ff",
+            "type": "color"
+          }
+        },
+        "IR - Iran": {
+          "1": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31d1c",
+            "type": "color"
+          }
+        },
+        "IQ - Iraq": {
+          "1": {
+            "value": "#bf2714",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "4": {
+            "value": "#009c4e",
+            "type": "color"
+          }
+        },
+        "ID - Indonesia": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "AF - Afghanistan": {
+          "1": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "2": {
+            "value": "#d51700",
+            "type": "color"
+          },
+          "3": {
+            "value": "#67bd38",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "6": {
+            "value": "#c00001",
+            "type": "color"
+          }
+        },
+        "IN - India": {
+          "1": {
+            "value": "#ff8c1a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "4": {
+            "value": "#3d58db",
+            "type": "color"
+          }
+        },
+        "MY - Malaysia": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "4": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "PH - Philippines": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#bf2714",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "PS - Palestinian Territory": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#272727",
+            "type": "color"
+          }
+        },
+        "CC - Cocos (Keeling) Islands": {
+          "1": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#915e2b",
+            "type": "color"
+          }
+        },
+        "RU - Russian Federation": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "IL - Isreal": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "CX - Christmas Island": {
+          "1": {
+            "value": "#4141db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#548650",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "KH - Cambodia": {
+          "1": {
+            "value": "#032ea1",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e00025",
+            "type": "color"
+          },
+          "3": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "KZ - Kazakhstan": {
+          "1": {
+            "value": "#4ec7ee",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffe402",
+            "type": "color"
+          }
+        },
+        "LB - Lebanon": {
+          "1": {
+            "value": "#f50101",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#52ab0b",
+            "type": "color"
+          }
+        },
+        "TH - Thailand": {
+          "1": {
+            "value": "#f50101",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#3d58db",
+            "type": "color"
+          }
+        },
+        "BD - Bangladesh": {
+          "1": {
+            "value": "#38a17e",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f72e45",
+            "type": "color"
+          }
+        },
+        "KG - Kyrgyzstan": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffdc17",
+            "type": "color"
+          }
+        },
+        "OM - Oman": {
+          "1": {
+            "value": "#f50101",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#5eaa22",
+            "type": "color"
+          }
+        },
+        "JP - Japan": {
+          "1": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e31d1c",
+            "type": "color"
+          }
+        },
+        "MO - Macao": {
+          "1": {
+            "value": "#1c9975",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "CN - China": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "SG - Singapore": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f1f9ff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "LA - Laos": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "VN - Vietnam": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffd221",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "AM - Armenia": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "MN - Mongolia": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#4c67e8",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f8d000",
+            "type": "color"
+          }
+        },
+        "MM - Myanmar": {
+          "1": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "BH - Bahrain": {
+          "1": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e31d1c",
+            "type": "color"
+          }
+        },
+        "AZ - Azerbaijan": {
+          "1": {
+            "value": "#3ca5d9",
+            "type": "color"
+          },
+          "2": {
+            "value": "#af0100",
+            "type": "color"
+          },
+          "3": {
+            "value": "#73be4a",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "HK - Hong Kong": {
+          "1": {
+            "value": "#ea1a1a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        }
+      },
+      "Europe": {
+        "GE - Georgia": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "AL - Albania": {
+          "1": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "2": {
+            "value": "#1a1a1a",
+            "type": "color"
+          }
+        },
+        "RO - Romania": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbcd17",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e11c1b",
+            "type": "color"
+          }
+        },
+        "MC - Monaco": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "AT - Austria": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "BA - Bosnia and Herzegovina": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "BE - Belgium": {
+          "1": {
+            "value": "#1d1d1d",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31d1c",
+            "type": "color"
+          }
+        },
+        "BV - Bouvet Island": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "BG - Bulgaria": {
+          "1": {
+            "value": "#e22c18",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "CH - Switzerland": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f1f9ff",
+            "type": "color"
+          }
+        },
+        "DE - Germany": {
+          "1": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffd018",
+            "type": "color"
+          }
+        },
+        "CZ - Czech Republic": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "IS - Iceland": {
+          "1": {
+            "value": "#0061c1",
+            "type": "color"
+          },
+          "2": {
+            "value": "#d21034",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f1f9ff",
+            "type": "color"
+          }
+        },
+        "IT - Italy": {
+          "1": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#c51918",
+            "type": "color"
+          }
+        },
+        "NL - Netherlands": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#3d58db",
+            "type": "color"
+          }
+        },
+        "UA - Ukraine": {
+          "1": {
+            "value": "#3195f9",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "GB - England": {
+          "1": {
+            "value": "#f50302",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "GR - Greece": {
+          "1": {
+            "value": "#4564f9",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "GB-SCT - Scotland": {
+          "1": {
+            "value": "#0067c3",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "PL - Poland": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "GB-UKM - United Kingdom": {
+          "1": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          }
+        },
+        "DK - Denmark": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "HU - Hungary": {
+          "1": {
+            "value": "#f14423",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#5eaa22",
+            "type": "color"
+          }
+        },
+        "NO - Norway": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "SE - Sweden": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "LT - Lithuania": {
+          "1": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "2": {
+            "value": "#55ba07",
+            "type": "color"
+          },
+          "3": {
+            "value": "#c51918",
+            "type": "color"
+          }
+        },
+        "GB-WLS - Wales": {
+          "1": {
+            "value": "#5daa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#d21034",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#000000",
+            "type": "color"
+          }
+        },
+        "EE - Estonia": {
+          "1": {
+            "value": "#40a8ff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "AX - Aland Islands": {
+          "1": {
+            "value": "#0061c1",
+            "type": "color"
+          },
+          "2": {
+            "value": "#d21034",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffce00",
+            "type": "color"
+          }
+        },
+        "IE - Ireland": {
+          "1": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ff8c1a",
+            "type": "color"
+          }
+        },
+        "FI - Finland": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "FR - France": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f50100",
+            "type": "color"
+          }
+        },
+        "GB-NIR - Northern Ireland": {
+          "1": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "LU - Luxembourg": {
+          "1": {
+            "value": "#f05234",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#2eb7ec",
+            "type": "color"
+          }
+        },
+        "LV - Latvia": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "SJ - Svalbard and Jan Mayen": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "GG - Guernsey": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "FO - Faroe Islands": {
+          "1": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "IM - Isle of Man": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "MK - North Macedonia": {
+          "1": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f50100",
+            "type": "color"
+          }
+        },
+        "ME - Montenegro": {
+          "1": {
+            "value": "#e8aa00",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f6c540",
+            "type": "color"
+          },
+          "3": {
+            "value": "#1e5e91",
+            "type": "color"
+          },
+          "4": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "5": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "6": {
+            "value": "#3d58db",
+            "type": "color"
+          }
+        },
+        "VA - Vatican City State": {
+          "1": {
+            "value": "#f4b300",
+            "type": "color"
+          },
+          "2": {
+            "value": "#bfbfbf",
+            "type": "color"
+          },
+          "3": {
+            "value": "#979797",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#af0100",
+            "type": "color"
+          },
+          "6": {
+            "value": "#ffdc17",
+            "type": "color"
+          }
+        },
+        "JE - Jersey": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffd100",
+            "type": "color"
+          }
+        },
+        "SM - San Marino": {
+          "1": {
+            "value": "#56c6f5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "4": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "5": {
+            "value": "#006923",
+            "type": "color"
+          },
+          "6": {
+            "value": "#009933",
+            "type": "color"
+          },
+          "7": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "8": {
+            "value": "#8fc753",
+            "type": "color"
+          },
+          "9": {
+            "value": "#000000",
+            "type": "color"
+          },
+          "10": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "11": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "12": {
+            "value": "#e8aa00",
+            "type": "color"
+          },
+          "13": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "14": {
+            "value": "#5e5e5e",
+            "type": "color"
+          }
+        },
+        "ES - Spain": {
+          "1": {
+            "value": "#ad1619",
+            "type": "color"
+          },
+          "2": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffc034",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffb400",
+            "type": "color"
+          },
+          "5": {
+            "value": "#c88a02",
+            "type": "color"
+          },
+          "6": {
+            "value": "#005bbf",
+            "type": "color"
+          },
+          "7": {
+            "value": "#f1f9ff",
+            "type": "color"
+          },
+          "8": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "9": {
+            "value": "#c37c9c",
+            "type": "color"
+          }
+        },
+        "SI - Slovenia": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "HR - Croatia (Hrvatska)": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "3": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "6": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "7": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "8": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "9": {
+            "value": "#56c6f5",
+            "type": "color"
+          },
+          "10": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "11": {
+            "value": "#272727",
+            "type": "color"
+          }
+        },
+        "RS - Serbia": {
+          "2": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "3": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "4": {
+            "value": "#4857a1",
+            "type": "color"
+          },
+          "5": {
+            "value": "#e8aa00",
+            "type": "color"
+          },
+          "6": {
+            "value": "#e8aa00",
+            "type": "color"
+          },
+          "7": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "8": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "9": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "10": {
+            "value": "#f6c540",
+            "type": "color"
+          }
+        },
+        "MT - Malta": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#a0a0a0",
+            "type": "color"
+          },
+          "5": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "GI - Gibraltar": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#de1a23",
+            "type": "color"
+          },
+          "3": {
+            "value": "#db000b",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#e8aa00",
+            "type": "color"
+          },
+          "6": {
+            "value": "#272727",
+            "type": "color"
+          }
+        },
+        "CY - Cyprus": {
+          "2": {
+            "value": "#006b49",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#f57a01",
+            "type": "color"
+          }
+        },
+        "BY - Belarus": {
+          "1": {
+            "value": "#b20000",
+            "type": "color"
+          },
+          "2": {
+            "value": "#af0100",
+            "type": "color"
+          },
+          "3": {
+            "value": "#8f181a",
+            "type": "color"
+          },
+          "4": {
+            "value": "#d0181a",
+            "type": "color"
+          },
+          "5": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "6": {
+            "value": "#73be4a",
+            "type": "color"
+          }
+        },
+        "SK - Slovakia": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        }
+      },
+      "Antartica": {
+        "AQ - Antarctica": {
+          "1": {
+            "value": "#5196ed",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f5f8fb",
+            "type": "color"
+          }
+        },
+        "HM - Heard and McDonald Islands": {
+          "1": {
+            "value": "#2b409a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "TF - French Southern and Antarctic Lands": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        }
+      },
+      "Oceania": {
+        "FM - Federated States of Micronesia": {
+          "1": {
+            "value": "#63b3e1",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "PG - Papua New Guinea": {
+          "1": {
+            "value": "#1d1d1d",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e11c1b",
+            "type": "color"
+          },
+          "3": {
+            "value": "#fbcd17",
+            "type": "color"
+          },
+          "4": {
+            "value": "#eeeef6",
+            "type": "color"
+          }
+        },
+        "SB - Solomon Islands": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#579d20",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "MH - Marshall Islands": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e2ae57",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "NF - Norfolk Island": {
+          "1": {
+            "value": "#409100",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "PW - Palau": {
+          "1": {
+            "value": "#61c6f0",
+            "type": "color"
+          },
+          "2": {
+            "value": "#fbcd17",
+            "type": "color"
+          }
+        },
+        "WF - Wallis and Futuna": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#c51918",
+            "type": "color"
+          }
+        },
+        "TO - Tonga": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "TK - Tokelau": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "NZ - New Zealand (Aotearoa)": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2b409a",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "WS - Samoa": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feffff",
+            "type": "color"
+          }
+        },
+        "NU - Niue": {
+          "1": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#ffffff",
+            "type": "color"
+          }
+        },
+        "NC - New Caledonia": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f50100",
+            "type": "color"
+          }
+        },
+        "NR - Nauru": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "CK - Cook Islands": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2b409a",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "6": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "TV - Tuvalu": {
+          "1": {
+            "value": "#2b409a",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#00b4ff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "6": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "VU - Vanuatu": {
+          "1": {
+            "value": "#c51918",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "3": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "4": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "5": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "6": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "KI -  Kiribati": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ffc84a",
+            "type": "color"
+          },
+          "3": {
+            "value": "#015989",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "AU - Australia": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2b409a",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f50100",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "PF - French Polynesia": {
+          "1": {
+            "value": "#bf2714",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ff0000",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#fa8f21",
+            "type": "color"
+          },
+          "5": {
+            "value": "#5277b9",
+            "type": "color"
+          },
+          "6": {
+            "value": "#000000",
+            "type": "color"
+          }
+        }
+      },
+      "South America": {
+        "GY - Guyana": {
+          "1": {
+            "value": "#5eaa22",
+            "type": "color"
+          },
+          "2": {
+            "value": "#e11c1b",
+            "type": "color"
+          },
+          "3": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "4": {
+            "value": "#272727",
+            "type": "color"
+          },
+          "5": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "VE - Venezuela": {
+          "1": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "SR - Suriname": {
+          "1": {
+            "value": "#4e8b1d",
+            "type": "color"
+          },
+          "2": {
+            "value": "#af0100",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "4": {
+            "value": "#feca00",
+            "type": "color"
+          }
+        },
+        "GF - French Guiana": {
+          "1": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "2": {
+            "value": "#5eaa22",
+            "type": "color"
+          }
+        },
+        "CL - Chile": {
+          "1": {
+            "value": "#e31d1c",
+            "type": "color"
+          },
+          "2": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "CO - Colombia": {
+          "1": {
+            "value": "#feca00",
+            "type": "color"
+          },
+          "2": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "3": {
+            "value": "#e31d1c",
+            "type": "color"
+          }
+        },
+        "BR - Brazil": {
+          "1": {
+            "value": "#009933",
+            "type": "color"
+          },
+          "3": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f7fcff",
+            "type": "color"
+          }
+        },
+        "AR - Argentina": {
+          "1": {
+            "value": "#58a5ff",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffc125",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f19900fa",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "6": {
+            "value": "#984111",
+            "type": "color"
+          }
+        },
+        "UY - Uruguay": {
+          "1": {
+            "value": "#2e42a5",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#ffc125",
+            "type": "color"
+          },
+          "4": {
+            "value": "#f19900fa",
+            "type": "color"
+          },
+          "5": {
+            "value": "#ffd018",
+            "type": "color"
+          },
+          "6": {
+            "value": "#984111",
+            "type": "color"
+          }
+        },
+        "PY - Paraguay": {
+          "1": {
+            "value": "#3d58db",
+            "type": "color"
+          },
+          "2": {
+            "value": "#f7fcff",
+            "type": "color"
+          },
+          "3": {
+            "value": "#f05234",
+            "type": "color"
+          },
+          "4": {
+            "value": "#73be4a",
+            "type": "color"
+          },
+          "5": {
+            "value": "#fbcd17",
+            "type": "color"
+          },
+          "6": {
+            "value": "#272727",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
