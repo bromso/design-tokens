@@ -1,0 +1,334 @@
+{
+  "news": {
+    "Tabloids": {
+      "The Sun": {
+        "1": {
+          "value": "#eb1701",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "TMZ": {
+        "1": {
+          "value": "#c13c0f",
+          "type": "color"
+        }
+      }
+    },
+    "Blog": {
+      "TNW": {
+        "1": {
+          "value": "#ff4422",
+          "type": "color"
+        }
+      },
+      "Tech Crunch": {
+        "1": {
+          "value": "linear-gradient(145deg, #13b069 0%, #12c833 100%)",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "CNET": {
+        "1": {
+          "value": "#e71d1d",
+          "type": "color"
+        }
+      }
+    },
+    "Radio": {
+      "NPR": {
+        "1": {
+          "value": "#d62021",
+          "type": "color"
+        },
+        "2": {
+          "value": "#000005",
+          "type": "color"
+        },
+        "3": {
+          "value": "#237bbd",
+          "type": "color"
+        },
+        "4": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "TV": {
+      "VICE": {
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "CNN": {
+        "1": {
+          "value": "#cc0000",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "Fox News": {
+        "1": {
+          "value": "#003366",
+          "type": "color"
+        },
+        "2": {
+          "value": "#c20017",
+          "type": "color"
+        },
+        "3": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "BBC": {
+        "1": {
+          "value": "#b90005",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "Russia Today": {
+        "1": {
+          "value": "#77bc1f",
+          "type": "color"
+        },
+        "2": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "Aljazeera": {
+        "1": {
+          "value": "#fa9000",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "NBC": {
+        "7": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "8": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "MSNBC": {
+        "1": {
+          "value": "#fcb711",
+          "type": "color"
+        },
+        "2": {
+          "value": "#f37021",
+          "type": "color"
+        },
+        "3": {
+          "value": "#cc004c",
+          "type": "color"
+        },
+        "4": {
+          "value": "#6460aa",
+          "type": "color"
+        },
+        "5": {
+          "value": "#0089d0",
+          "type": "color"
+        },
+        "6": {
+          "value": "#0db14b",
+          "type": "color"
+        },
+        "7": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "8": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "Sky News": {
+        "1": {
+          "value": "linear-gradient(180deg, #e90e10 40%, #bc0000 100%)",
+          "type": "color"
+        },
+        "2": {
+          "value": "linear-gradient(0deg, #ffffff 0%, #ffffff40 100%)",
+          "type": "color"
+        },
+        "3": {
+          "value": "linear-gradient(0deg, #ffffff 0%, #ffffff40 100%)",
+          "type": "color"
+        },
+        "4": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "5": {
+          "value": "#1c1c1c",
+          "type": "color"
+        }
+      }
+    },
+    "Newspaper": {
+      "Newsweek": {
+        "1": {
+          "value": "#ff0500",
+          "type": "color"
+        },
+        "2": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "Time Magazine": {
+        "1": {
+          "value": "#e90606",
+          "type": "color"
+        }
+      },
+      "The New Yorker": {
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "Bloomberg": {
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "Politico": {
+        "1": {
+          "value": "#cf1c23",
+          "type": "color"
+        }
+      },
+      "The Washington Post": {
+        "1": {
+          "value": "#231f20",
+          "type": "color"
+        }
+      },
+      "The Wall Street Journal": {
+        "1": {
+          "value": "#1c1c21",
+          "type": "color"
+        }
+      },
+      "USA Today": {
+        "1": {
+          "value": "#33261c",
+          "type": "color"
+        },
+        "2": {
+          "value": "#00abe6",
+          "type": "color"
+        }
+      },
+      "The Hollywood Reporter": {
+        "1": {
+          "value": "#ff1817",
+          "type": "color"
+        }
+      },
+      "The Telegraph": {
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "Huffpost": {
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "2": {
+          "value": "#0dbe98",
+          "type": "color"
+        }
+      },
+      "The Independent": {
+        "1": {
+          "value": "#ed1b2f",
+          "type": "color"
+        },
+        "2": {
+          "value": "#110f0d",
+          "type": "color"
+        },
+        "3": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      },
+      "Financial Times": {
+        "1": {
+          "value": "#231f20",
+          "type": "color"
+        }
+      },
+      "The New York Times": {
+        "1": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "The Guardian": {
+        "1": {
+          "value": "#121212",
+          "type": "color"
+        }
+      },
+      "U": {
+        "S": {
+          " News & World Report": {
+            "1": {
+              "value": "#005ea6",
+              "type": "color"
+            },
+            "2": {
+              "value": "#c41623",
+              "type": "color"
+            },
+            "3": {
+              "value": "#ffffff",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "news"
+    ]
+  }
+}
