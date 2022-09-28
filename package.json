@@ -1,0 +1,56 @@
+{
+  "name": "design-tokens",
+  "private": true,
+  "description": "Design tokens generated from the Figma plugin Figma Tokens for your design system",
+  "version": "0.0.0",
+  "author": {
+    "email": "jonasbroms@icloud.com",
+    "name": "Jonas Bröms",
+    "url": "http://jonasbroms.com"
+  },
+  "maintainers": [
+    {
+      "name": "Jonas Bröms",
+      "email": "jonas@icloud.com"
+    }
+  ],
+  "license": "MIT <https://github.com/bromso/design-tokens/blob/master/LICENSE>",
+  "homepage": "https://jonasbroms.com/",
+  "dependencies": {},
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.6",
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "husky": "^8.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "semver",
+    "semantic release",
+    "design",
+    "tokens",
+    "design tokens",
+    "design system",
+    "figma",
+    "figma tokens",
+    "json",
+    "figma plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bromso/design-tokens"
+  },
+  "bugs": {
+    "url": "https://github.com/bromso/design-tokens/issues"
+  },
+  "engines": {
+    "node": "16.17.1",
+    "npm": "8.15.0"
+  }
+}
