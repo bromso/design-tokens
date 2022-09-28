@@ -2,7 +2,7 @@
   "name": "design-tokens",
   "private": true,
   "description": "Design tokens generated from the Figma plugin Figma Tokens for your design system",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": {
     "email": "jonasbroms@icloud.com",
     "name": "Jonas Bröms",
