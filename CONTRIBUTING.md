@@ -81,7 +81,7 @@ cz
 
 ## Releases
 
-See the Releases section of our GitHub project for [CHANGELOG](https://github.com/bromso/epulze-design-tokens/blob/main/CHANGELOG.md) for each release version of [epulze-design-tokens](https://github.com/bromso/epulze-design-tokens projects) .
+See the Releases section of our GitHub project for [CHANGELOG](https://github.com/bromso/design-tokens/blob/main/CHANGELOG.md) for each release version of [epulze-design-tokens](https://github.com/bromso/epulze-design-tokens projects) .
 
 ## Checking coding style
 
